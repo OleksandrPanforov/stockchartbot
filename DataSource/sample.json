@@ -1,0 +1,91 @@
+{
+  "dataset": {
+    "id": 0,
+    "dataset_code": "sample",
+    "database_code": "sample",
+    "name": "sample",
+    "description": "sample",
+    "refreshed_at": "2019-04-25 22:31:55 UTC",
+    "newest_available_date": "2019-04-25",
+    "oldest_available_date": "2000-01-20",
+    "column_names": [
+      "Date",
+      "Open",
+      "High",
+      "Low",
+      "Close",
+      "Change",
+      "Traded Volume",
+      "Turnover",
+      "Last Price of the Day",
+      "Daily Traded Units",
+      "Daily Turnover"
+    ],
+    "frequency": "daily",
+    "type": "Time Series",
+    "premium": false,
+    "limit": null,
+    "transform": null,
+    "column_index": null,
+    "start_date": "2019-04-20",
+    "end_date": "2019-04-25",
+    "data": [
+      [
+        "2019-04-25",
+        1.0,
+        58.32,
+        57.59,
+        57.7,
+        232.1,
+        5241764.0,
+        303294800.0,
+        4535.22,
+        11.2,
+        3423.0
+      ],
+      [
+        "2019-04-24",
+        1.0,
+        null,
+        null,
+        null,
+        232.1,
+        null,
+        null,
+        4535.22,
+        11.2,
+        3423.0
+      ],
+      [
+        "2019-04-23",
+        null,
+        60.0,
+        59.02,
+        59.11,
+        null,
+        4599099.0,
+        272759038.0,
+        null,
+        null,
+        null
+      ],
+      [
+        "2019-04-22",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "collapse": null,
+    "order": null,
+    "database_id": 6129
+  }
+}
+

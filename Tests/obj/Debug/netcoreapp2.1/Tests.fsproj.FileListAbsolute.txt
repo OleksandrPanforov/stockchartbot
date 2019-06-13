@@ -1,0 +1,13 @@
+C:\Users\Oleksandr_Panforov\source\repos\StockChartBot\Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Oleksandr_Panforov\source\repos\StockChartBot\Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Oleksandr_Panforov\source\repos\StockChartBot\Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Oleksandr_Panforov\source\repos\StockChartBot\Tests\bin\Debug\netcoreapp2.1\Tests.deps.json
+C:\Users\Oleksandr_Panforov\source\repos\StockChartBot\Tests\bin\Debug\netcoreapp2.1\Tests.runtimeconfig.json
+C:\Users\Oleksandr_Panforov\source\repos\StockChartBot\Tests\bin\Debug\netcoreapp2.1\Tests.runtimeconfig.dev.json
+C:\Users\Oleksandr_Panforov\source\repos\StockChartBot\Tests\bin\Debug\netcoreapp2.1\Tests.dll
+C:\Users\Oleksandr_Panforov\source\repos\StockChartBot\Tests\bin\Debug\netcoreapp2.1\Tests.pdb
+C:\Users\Oleksandr_Panforov\source\repos\StockChartBot\Tests\obj\Debug\netcoreapp2.1\Tests.fsprojAssemblyReference.cache
+C:\Users\Oleksandr_Panforov\source\repos\StockChartBot\Tests\obj\Debug\netcoreapp2.1\Tests.AssemblyInfoInputs.cache
+C:\Users\Oleksandr_Panforov\source\repos\StockChartBot\Tests\obj\Debug\netcoreapp2.1\Tests.AssemblyInfo.fs
+C:\Users\Oleksandr_Panforov\source\repos\StockChartBot\Tests\obj\Debug\netcoreapp2.1\Tests.dll
+C:\Users\Oleksandr_Panforov\source\repos\StockChartBot\Tests\obj\Debug\netcoreapp2.1\Tests.pdb

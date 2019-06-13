@@ -1,0 +1,11 @@
+C:\Users\Oleksandr_Panforov\source\repos\StockChartBot\DataSource\obj\Debug\netstandard2.0\DataSource.fsprojAssemblyReference.cache
+C:\Users\Oleksandr_Panforov\source\repos\StockChartBot\DataSource\obj\Debug\netstandard2.0\DataSource.AssemblyInfoInputs.cache
+C:\Users\Oleksandr_Panforov\source\repos\StockChartBot\DataSource\obj\Debug\netstandard2.0\DataSource.AssemblyInfo.fs
+C:\Users\Oleksandr_Panforov\source\repos\StockChartBot\DataSource\bin\Debug\netstandard2.0\DataSource.deps.json
+C:\Users\Oleksandr_Panforov\source\repos\StockChartBot\DataSource\bin\Debug\netstandard2.0\DataSource.dll
+C:\Users\Oleksandr_Panforov\source\repos\StockChartBot\DataSource\bin\Debug\netstandard2.0\Parser.dll
+C:\Users\Oleksandr_Panforov\source\repos\StockChartBot\DataSource\bin\Debug\netstandard2.0\Parser.pdb
+C:\Users\Oleksandr_Panforov\source\repos\StockChartBot\DataSource\obj\Debug\netstandard2.0\DataSource.fsproj.CopyComplete
+C:\Users\Oleksandr_Panforov\source\repos\StockChartBot\DataSource\bin\Debug\netstandard2.0\DataSource.pdb
+C:\Users\Oleksandr_Panforov\source\repos\StockChartBot\DataSource\obj\Debug\netstandard2.0\DataSource.dll
+C:\Users\Oleksandr_Panforov\source\repos\StockChartBot\DataSource\obj\Debug\netstandard2.0\DataSource.pdb

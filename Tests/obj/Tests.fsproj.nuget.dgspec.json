@@ -1,0 +1,207 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Oleksandr_Panforov\\OneDrive - EPAM\\repos\\StockChartBot\\Tests\\Tests.fsproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Oleksandr_Panforov\\OneDrive - EPAM\\repos\\StockChartBot\\DataSource\\DataSource.fsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Oleksandr_Panforov\\OneDrive - EPAM\\repos\\StockChartBot\\DataSource\\DataSource.fsproj",
+        "projectName": "DataSource",
+        "projectPath": "C:\\Users\\Oleksandr_Panforov\\OneDrive - EPAM\\repos\\StockChartBot\\DataSource\\DataSource.fsproj",
+        "packagesPath": "C:\\Users\\Oleksandr_Panforov\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Oleksandr_Panforov\\OneDrive - EPAM\\repos\\StockChartBot\\DataSource\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Oleksandr_Panforov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "C:\\Users\\Oleksandr_Panforov\\OneDrive - EPAM\\repos\\StockChartBot\\Parser\\Parser.fsproj": {
+                "projectPath": "C:\\Users\\Oleksandr_Panforov\\OneDrive - EPAM\\repos\\StockChartBot\\Parser\\Parser.fsproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "FSharp.Core": {
+              "target": "Package",
+              "version": "[4.6.2, )"
+            },
+            "FSharp.Data": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Oleksandr_Panforov\\OneDrive - EPAM\\repos\\StockChartBot\\Parser\\Parser.fsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Oleksandr_Panforov\\OneDrive - EPAM\\repos\\StockChartBot\\Parser\\Parser.fsproj",
+        "projectName": "Parser",
+        "projectPath": "C:\\Users\\Oleksandr_Panforov\\OneDrive - EPAM\\repos\\StockChartBot\\Parser\\Parser.fsproj",
+        "packagesPath": "C:\\Users\\Oleksandr_Panforov\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Oleksandr_Panforov\\OneDrive - EPAM\\repos\\StockChartBot\\Parser\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Oleksandr_Panforov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "FSharp.Core": {
+              "target": "Package",
+              "version": "[4.6.2, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Oleksandr_Panforov\\OneDrive - EPAM\\repos\\StockChartBot\\StockChartBot\\StockChartBot.fsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Oleksandr_Panforov\\OneDrive - EPAM\\repos\\StockChartBot\\StockChartBot\\StockChartBot.fsproj",
+        "projectName": "StockChartBot",
+        "projectPath": "C:\\Users\\Oleksandr_Panforov\\OneDrive - EPAM\\repos\\StockChartBot\\StockChartBot\\StockChartBot.fsproj",
+        "packagesPath": "C:\\Users\\Oleksandr_Panforov\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Oleksandr_Panforov\\OneDrive - EPAM\\repos\\StockChartBot\\StockChartBot\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Oleksandr_Panforov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\Oleksandr_Panforov\\OneDrive - EPAM\\repos\\StockChartBot\\DataSource\\DataSource.fsproj": {
+                "projectPath": "C:\\Users\\Oleksandr_Panforov\\OneDrive - EPAM\\repos\\StockChartBot\\DataSource\\DataSource.fsproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Oleksandr_Panforov\\OneDrive - EPAM\\repos\\StockChartBot\\Tests\\Tests.fsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Oleksandr_Panforov\\OneDrive - EPAM\\repos\\StockChartBot\\Tests\\Tests.fsproj",
+        "projectName": "Tests",
+        "projectPath": "C:\\Users\\Oleksandr_Panforov\\OneDrive - EPAM\\repos\\StockChartBot\\Tests\\Tests.fsproj",
+        "packagesPath": "C:\\Users\\Oleksandr_Panforov\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Oleksandr_Panforov\\OneDrive - EPAM\\repos\\StockChartBot\\Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Oleksandr_Panforov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\Oleksandr_Panforov\\OneDrive - EPAM\\repos\\StockChartBot\\Parser\\Parser.fsproj": {
+                "projectPath": "C:\\Users\\Oleksandr_Panforov\\OneDrive - EPAM\\repos\\StockChartBot\\Parser\\Parser.fsproj"
+              },
+              "C:\\Users\\Oleksandr_Panforov\\OneDrive - EPAM\\repos\\StockChartBot\\StockChartBot\\StockChartBot.fsproj": {
+                "projectPath": "C:\\Users\\Oleksandr_Panforov\\OneDrive - EPAM\\repos\\StockChartBot\\StockChartBot\\StockChartBot.fsproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
